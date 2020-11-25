@@ -7,7 +7,7 @@
 - Deep Learning and Machine Learning Practitioner
 - Always looking to contribute to Open Source
 - Create APIs with Flask [Check this][website]
-- Trying to integrate Machine Learning with Cricket kunalduran 
+- Trying to integrate Machine Learning with Cricket
 
 
 ### Connect with me:
