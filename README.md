@@ -1,13 +1,12 @@
-### Alright, This is me, Kunal Duran [website] 
+### Alright, This is me, Kunal Duran
 
 
 ## Python Programmer
 
 - I Use Python to Automate Stuff
-- Deep Learning and Machine Learning Practitioner
+- Build Fast APIs and Scalable Backend with Golang
 - Always looking to contribute to Open Source
-- Create APIs with Flask [Check this][website]
-- Trying to integrate Machine Learning with Cricket
+- Create APIs with Flask for Machine Learning Models
 
 
 ### Connect with me:
@@ -21,8 +20,8 @@
 <br />
 
 ### Languages and Tools:
-
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][website]
+[<img align="left" alt="GO" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />][website]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][website]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
 [<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][website]
@@ -38,7 +37,7 @@
 
 ---
 
-[website]: https://www.kunalduran.com
+[website]: https://www.youtube.com/channel/UCkgRLEX6jFrYOGCLJEGK9nw
 [twitter]: https://twitter.com/duran_kunal
 [youtube]: https://www.youtube.com/channel/UCkgRLEX6jFrYOGCLJEGK9nw
 [instagram]: https://www.instagram.com/kunalduran/
