@@ -1,12 +1,13 @@
 ### Alright, This is me, Kunal Duran
 
 
-## Python Programmer
+## Backend Developer
 
-- I Use Python to Automate Stuff
+- Microservices with GO, Python.
 - Build Fast APIs and Scalable Backend with Golang
 - Always looking to contribute to Open Source
 - Create APIs with Flask for Machine Learning Models
+- Redis, SQL, Mongo
 
 
 ### Connect with me:
