@@ -1,45 +1,39 @@
-### Alright, This is me, Kunal Duran
+# Software Engineer | Backend Engineering MVP 🏀 | Web Development Champion 🏆
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kunal-duran)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-brightgreen)](https://github.com/KunalDuran)
 
-## Backend Developer
+## Hey, mate! 👋 Software Engineer and Master of the Code Crease
 
-- Microservices with GO, Python.
-- Build Fast APIs and Scalable Backend with Golang
-- Always looking to contribute to Open Source
-- Create APIs with Flask for Machine Learning Models
-- Redis, SQL, Mongo
+Welcome to my GitHub pitch, where I unleash my passion for software engineering and web development, just like how I bring fire to the cricket field! 🏏 Get ready for an innings of powerful backend engineering and web wizardry that will leave you in awe!
 
+## The Perfect Delivery of My Skills 🔥
 
-### Connect with me:
+- Programming Spin: GO / Golang, Python, JavaScript, HTML, CSS
+- Bowling Protocols: HTTP/HTTPS, TCP, Websockets, MQTT
+- Solid Batting Skills with Databases: MySQL, DynamoDB, MongoDB, Redis
+- Boundary-Hitting Frameworks: Django, Flask, gin framework of Golang
+- Tools of the Trade: Docker, Git, Postman
+- Perfect Pitch Compatibility: Linux, Windows
 
-[<img align="left" alt="kunalduran.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="kunalduran | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="kunalduran | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="kunalduran | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="kunalduran | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## My Record-Breaking Achievements 🏆
 
-<br />
+1. I've smashed some sixes by creating powerful CLI tools that handle massive amounts of data from the top leagues like MLB, IPL, NFL, and NBA! (GTG Network)
+2. I've captained the team and developed a complete device management solution for embedded devices like Raspberry Pi and Jetson Nano. It's a winning partnership! (emvirt Solutions)
+3. I've bowled perfect Yorkers with my open-source Python library for cricket data analysis, which has become a must-have for hundreds of fellow cricketers. 🏏 (Check it out on [PyPI](https://pypi.org/project/cricsummary/))
 
-### Languages and Tools:
-[<img align="left" alt="GO" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />][website]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][website]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
-[<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][website]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][website]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][website]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
+## Mastering Teamwork and Project Management 🤝
 
-<br />
-<br />
+Just like leading a cricket squad to victory, I excel at managing projects and handling clients. With my skills, I can guide a team to triumph and deliver match-winning performances.
 
----
+## Beyond the Crease: Cricket Runs in My Blood! 🏏
 
-[website]: https://www.youtube.com/channel/UCkgRLEX6jFrYOGCLJEGK9nw
-[twitter]: https://twitter.com/duran_kunal
-[youtube]: https://www.youtube.com/channel/UCkgRLEX6jFrYOGCLJEGK9nw
-[instagram]: https://www.instagram.com/kunalduran/
-[linkedin]: https://www.linkedin.com/in/kunal-duran-35126310a/
+When I'm not smashing boundaries in the code arena, you'll find me on the cricket field, playing with passion and flair. Cricket is my lifeblood, and it keeps me in the zone, both on and off the pitch! 🎉
+
+## Let's Build a Champion Team! 🏆
+
+If you're ready to form an unstoppable partnership and hit the winning runs, connect with me on [LinkedIn](https://www.linkedin.com/in/yourname). I'm always up for a game-changing collaboration and boundary-breaking opportunities!
+
+P.S. Don't forget to check out some of my projects on [GitHub](https://github.com/KunalDuran). They'll give you a glimpse into the magic I bring to the code field!
+
+Remember, with a powerful drive and a solid technique, we can create software wonders that will make the crowd go wild! Let's rock the code crease together! 💪
