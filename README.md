@@ -1,39 +1,27 @@
-# Software Engineer | Backend Engineering MVP 🏀 | Web Development Champion 🏆
+# Software Engineer | Backend Engineering Specialist 🏆
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kunal-duran)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kunal-duran) 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-brightgreen)](https://github.com/KunalDuran)
 
-## Hey, mate! 👋 Software Engineer and Master of the Code Crease
+## About Me 👋
 
-Welcome to my GitHub pitch, where I unleash my passion for software engineering and web development, just like how I bring fire to the cricket field! 🏏 Get ready for an innings of powerful backend engineering and web wizardry that will leave you in awe!
+I am a **Backend Engineer** with 4 years of experience, specializing in building **scalable systems**, **APIs**, and **IoT-driven solutions** using **Golang**, **Python**, and **JavaScript**. Passionate about **drone technology**, and **open-source contributions**, I constantly push the boundaries of backend development and love exploring deeper aspects of **computer science**.
 
-## The Perfect Delivery of My Skills 🔥
+## Core Skills
 
-- Programming Spin: GO / Golang, Python, JavaScript, HTML, CSS
-- Bowling Protocols: HTTP/HTTPS, TCP, Websockets, MQTT
-- Solid Batting Skills with Databases: MySQL, DynamoDB, MongoDB, Redis
-- Boundary-Hitting Frameworks: Django, Flask, gin framework of Golang
-- Tools of the Trade: Docker, Git, Postman
-- Perfect Pitch Compatibility: Linux, Windows
+- **Programming Languages**: Golang, Python, JavaScript
+- **Protocols**: HTTP, WebSockets, MQTT
+- **Databases**: MySQL, DynamoDB, MongoDB, Redis
+- **Frameworks**: Django, Flask, Gin (Go)
+- **Tools**: Docker, Git, Postman
+- **OS Environments**: Linux, Windows
 
-## My Record-Breaking Achievements 🏆
+## Driven by Curiosity
 
-1. I've smashed some sixes by creating powerful CLI tools that handle massive amounts of data from the top leagues like MLB, IPL, NFL, and NBA! (GTG Network)
-2. I've captained the team and developed a complete device management solution for embedded devices like Raspberry Pi and Jetson Nano. It's a winning partnership! (emvirt Solutions)
-3. I've bowled perfect Yorkers with my open-source Python library for cricket data analysis, which has become a must-have for hundreds of fellow cricketers. 🏏 (Check it out on [PyPI](https://pypi.org/project/cricsummary/))
+Fueled by a hunger to dive deeper into the **core principles of computer science**, I’m always learning, optimizing, and exploring new technologies to refine my skills and deliver more effective, innovative solutions.
 
-## Mastering Teamwork and Project Management 🤝
+---
 
-Just like leading a cricket squad to victory, I excel at managing projects and handling clients. With my skills, I can guide a team to triumph and deliver match-winning performances.
+Let's collaborate and build something impactful! Connect with me on [LinkedIn](https://www.linkedin.com/in/kunal-duran) or explore my open-source contributions on [GitHub](https://github.com/KunalDuran).
 
-## Beyond the Crease: Cricket Runs in My Blood! 🏏
-
-When I'm not smashing boundaries in the code arena, you'll find me on the cricket field, playing with passion and flair. Cricket is my lifeblood, and it keeps me in the zone, both on and off the pitch! 🎉
-
-## Let's Build a Champion Team! 🏆
-
-If you're ready to form an unstoppable partnership and hit the winning runs, connect with me on [LinkedIn](https://www.linkedin.com/in/yourname). I'm always up for a game-changing collaboration and boundary-breaking opportunities!
-
-P.S. Don't forget to check out some of my projects on [GitHub](https://github.com/KunalDuran). They'll give you a glimpse into the magic I bring to the code field!
-
-Remember, with a powerful drive and a solid technique, we can create software wonders that will make the crowd go wild! Let's rock the code crease together! 💪
+---
