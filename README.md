@@ -5,7 +5,7 @@
 
 ## About Me 👋
 
-I am a **Backend Engineer** with 4 years of experience, specializing in building **scalable systems**, **APIs**, and **IoT-driven solutions** using **Golang**, **Python**, and **JavaScript**. Passionate about **drone technology**, and **open-source contributions**, I constantly push the boundaries of backend development and love exploring deeper aspects of **computer science**.
+I am a **Backend Engineer** with specializing in building **scalable systems**, **APIs**, and **IoT-driven solutions** using **Golang**, **Python**, and **JavaScript**. Passionate about **drone technology**, and **open-source contributions**, I constantly push the boundaries of backend development and love exploring deeper aspects of **computer science**.
 
 ## Core Skills
 
