@@ -1,27 +1,27 @@
-# Software Engineer | Backend Engineering Specialist 🏆
+### 👋 Hello World! I'm Kunal Duran
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kunal-duran) 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-brightgreen)](https://github.com/KunalDuran)
-
-## About Me 👋
-
-I am a **Backend Engineer** with specializing in building **scalable systems**, **APIs**, and **IoT-driven solutions** using **Golang**, **Python**, and **JavaScript**. Passionate about **drone technology**, and **open-source contributions**, I constantly push the boundaries of backend development and love exploring deeper aspects of **computer science**.
-
-## Core Skills
-
-- **Programming Languages**: Golang, Python, JavaScript
-- **Protocols**: HTTP, WebSockets, MQTT
-- **Databases**: MySQL, DynamoDB, MongoDB, Redis
-- **Frameworks**: Django, Flask, Gin (Go)
-- **Tools**: Docker, Git, Postman
-- **OS Environments**: Linux, Windows
-
-## Driven by Curiosity
-
-Fueled by a hunger to dive deeper into the **core principles of computer science**, I’m always learning, optimizing, and exploring new technologies to refine my skills and deliver more effective, innovative solutions.
+#### 🚀 Backend Developer | 🛠 Golang Enthusiast | 🛩 Building the Future of Autonomous Drones
 
 ---
 
-Let's collaborate and build something impactful! Connect with me on [LinkedIn](https://www.linkedin.com/in/kunal-duran) or explore my open-source contributions on [GitHub](https://github.com/KunalDuran).
+🔧 **About Me**  
+I'm a passionate backend engineer with over 5 years of experience, currently focused on building robust, scalable systems using **Golang**. I enjoy solving complex problems, optimizing performance, and contributing to high-impact projects—especially in emerging tech domains like **drones**, **IoT**, and **AI**.
+
+🔭 **Currently Working On**  
+- 🛰 A platform to simplify **autonomous drone communication** using MAVLink, Raspberry Pi & Pixhawk  
+- 🌐 A **photo selection platform** for photographers & clients (Go + MongoDB + AWS S3 + Next.js)  
+- ⚙ Learning and implementing **backend engineering best practices** and **Kubernetes** for large-scale applications
+
+🌍 **Goal for 2025**  
+- Build and launch impactful drone tools  
+- Become fluent in **German 🇩🇪** and improve **communication & leadership** skills
 
 ---
+
+📌 **Tech Stack**  
+```go
+Golang | Python | Node.js  
+MongoDB | PostgreSQL | Redis  
+Docker | Kubernetes | AWS | GCP  
+MAVLink | ROS | Raspberry Pi | IoT  
+REST APIs | WebSockets | Microservices
